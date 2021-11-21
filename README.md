@@ -33,7 +33,7 @@
 -->
 
 <div style="display: inline_block"><br>
-  <img align="center" src="[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=ghorvath)](https://github.com/mohouyizme/1337-readme)">
+  <img height="180em" src="[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=ghorvath)](https://github.com/mohouyizme/1337-readme)">
   ## ⚡️ A Few Quick Facts  
    - 🔭 I’m currently working on my own library
    - 🌱 I’m learning C language
@@ -44,7 +44,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobahug&layout=compact&langs_count=7&theme=dark">
 </div>
 <br />
-## Languages & Tools
+##Languages & Tools
 <div style="display: inline_block"><br>
 <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
 <img align="center" alt="Rafa-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
