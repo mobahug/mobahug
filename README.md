@@ -32,7 +32,7 @@
 <br>
 <br>
 <div style="display: inline_block"><br>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mobahug&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" &mbsp>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mobahug&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" &emsp;>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobahug&layout=compact&langs_count=7&theme=tokyonight">
 <br>
  <h2>🚀 Languages & Tools</h2> 
