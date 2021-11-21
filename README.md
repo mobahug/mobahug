@@ -1,5 +1,7 @@
-### 42 Student in Helsinki
-### Currently studying C  👋
+### Hi there 👋
+
+My name is Gabor, 42 Student in Helsinki and currently studying C.
+ 
 
 <!--
 **mobahug/mobahug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
