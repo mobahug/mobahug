@@ -19,13 +19,12 @@
   <img align="right" alt="Rafa-pic" height="270" width="520" style="border-radius:150px;" src="https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=ghorvath">
   <div style="display: inline_block"><br>
     <h2>⚡️ A Few Quick Facts.</h2> 
-    &emsp;•  🔭 I’m currently working on my own library <br>
-    &emsp;•  🌱 I’m learning C language <br>
-    &emsp;•  🐝 Member of the Builders coalition <br>
-    &emsp;•  👨‍💻 Most of my projects are available on Github <br>
-    &emsp;•  📫 Contact me: gaborulenius@gmail.com <br>
-    &emsp;•  😄 Fun fact: I like drawing and crafting 
-
+    •  🔭 I’m currently working on my own library <br>
+    •  🌱 I’m learning C language <br>
+    •  🐝 Member of the Builders coalition <br>
+    •  👨‍💻 Most of my projects are available on Github <br>
+    •  📫 Contact me: gaborulenius@gmail.com <br>
+    •  😄 Fun fact: I like drawing and crafting 
   </div>
 </div>
 <br>
