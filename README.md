@@ -13,14 +13,11 @@
 - ⚡ Fun fact: ...
 -->
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=ghorvath)](https://github.com/mohouyizme/1337-readme)
-<div align=""left">
+
   ## ⚡️ A Few Quick Facts  
    - 🔭 I’m currently working on my own library
    - 🌱 I’m learning C language
    - 👨‍💻 Most of my projects are available on Github.
-<div/>
-      
-    
 
 <div align="center">
   <a href="https://github.com/mobahug">
