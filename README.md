@@ -1,4 +1,5 @@
-### Hi there 👋
+### 42 Student in Helsinki
+### Currently studying C  👋
 
 <!--
 **mobahug/mobahug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
