@@ -21,4 +21,4 @@
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=mobahug)](https://github.com/LordDashMe/github-contribution-stats/)
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/mobahug/mobahug/blob/output/github-contribution-grid-snake.gif)
