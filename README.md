@@ -1,4 +1,4 @@
-###Hi 👋, I am Gabor
+### Hi 👋, I am Gabor
 
 42 Student in Helsinki and currently studying C.
 
