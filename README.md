@@ -37,12 +37,12 @@
 <div style="display: inline_block"><br>
   <img align="right" alt="Rafa-pic" height="270" width="520" style="border-radius:150px;" src="https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=ghorvath">
   <div style="display: inline_block"><br>
-    <h3>⚡️ A Few Quick Facts.</h3><br> 
+    <h3>⚡️ A Few Quick Facts.</h3> 
     -  🔭 I’m currently working on my own library <br>
     -  🌱 I’m learning C language <br>
     -  👨‍💻 Most of my projects are available on Github <br>
     -  📫 Contact me: gaborulenius@gmail.com <br>
-    -  😄 Fun fact: I like drawing and crafting <br>
+    -  😄 Fun fact: I like drawing and crafting
   </div>
 </div>
 <br>
