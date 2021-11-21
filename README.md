@@ -31,12 +31,4 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
-
-
-
-
-
-
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=mobahug)](https://github.com/LordDashMe/github-contribution-stats/)
-
 ![snake gif](https://github.com/mobahug/mobahug/blob/output/github-contribution-grid-snake.svg)
