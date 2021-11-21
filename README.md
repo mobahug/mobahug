@@ -11,7 +11,7 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=ghorvath)](https://github.com/mohouyizme/1337-readme)
 
   ## ⚡️ A Few Quick Facts  
@@ -19,7 +19,6 @@
    - 🌱 I’m learning C language
    - 👨‍💻 Most of my projects are available on Github.
 
-<!--
   <a href="https://github.com/mobahug">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mobahug&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobahug&layout=compact&langs_count=7&theme=dark"/>
@@ -34,7 +33,7 @@
 -->
 
 <div style="display: inline_block"><br>
-  <[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=ghorvath)](https://github.com/mohouyizme/1337-readme)>
+  <img align="center" src="[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=ghorvath)](https://github.com/mohouyizme/1337-readme)">
   ## ⚡️ A Few Quick Facts  
    - 🔭 I’m currently working on my own library
    - 🌱 I’m learning C language
