@@ -4,11 +4,7 @@
 
 
 
-## ⚡️ A Few Quick Facts
 
-- 🔭 I’m currently working on my own library
-- 🌱 I’m learning C language
-- 👨‍💻 Most of my projects are available on Github.
 <!-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... 
@@ -20,10 +16,16 @@
 
 
 
-
 <div align="center">
   <a href="https://github.com/mobahug">
-    [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=ghorvath)](https://github.com/mohouyizme/1337-readme)
+  <img height="180em" src="[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=ghorvath)](https://github.com/mohouyizme/1337-readme)"/>
+    <div>
+      ## ⚡️ A Few Quick Facts
+
+        - 🔭 I’m currently working on my own library
+        - 🌱 I’m learning C language
+        - 👨‍💻 Most of my projects are available on Github.
+      <div/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mobahug&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobahug&layout=compact&langs_count=7&theme=dark"/>
 </div>
