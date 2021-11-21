@@ -40,7 +40,9 @@
     ##⚡️ A Few Quick Facts <br> 
     -  🔭 I’m currently working on my own library <br>
     -  🌱 I’m learning C language <br>
-    -  👨‍💻 Most of my projects are available on Github. <br>
+    -  👨‍💻 Most of my projects are available on Github <br>
+    -  📫 Contact me: gaborulenius@gmail.com <br>
+    -  😄 Fun fact: I like drawing and crafting <br>
   </div>
 </div>
 <br>
