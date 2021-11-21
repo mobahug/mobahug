@@ -37,7 +37,7 @@
 <div style="display: inline_block"><br>
   <img align="right" alt="Rafa-pic" height="270" width="520" style="border-radius:150px;" src="https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=ghorvath">
   <div style="display: inline_block"><br>
-    <h5>⚡️ A Few Quick Facts.</h5><br> 
+    <h5⚡️ A Few Quick Facts.></h5><br> 
     -  🔭 I’m currently working on my own library <br>
     -  🌱 I’m learning C language <br>
     -  👨‍💻 Most of my projects are available on Github <br>
