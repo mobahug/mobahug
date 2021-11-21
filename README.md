@@ -20,13 +20,9 @@
   <div style="display: inline_block"><br>
     <h2>⚡️ A Few Quick Facts.</h2> 
     -  🔭 I’m currently working on my own library <br>
-    <br>
     -  🌱 I’m learning C language <br>
-    <br>
     -  👨‍💻 Most of my projects are available on Github <br>
-    <br>
     -  📫 Contact me: gaborulenius@gmail.com <br>
-    <br>
     -  😄 Fun fact: I like drawing and crafting
   </div>
 </div>
