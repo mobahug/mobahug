@@ -13,15 +13,15 @@
 - ⚡ Fun fact: ...
 -->
 
-
-    <div align=""left">
-      ## ⚡️ A Few Quick Facts
-          [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=ghorvath)](https://github.com/mohouyizme/1337-readme)
-        - 🔭 I’m currently working on my own library
-        - 🌱 I’m learning C language
-        - 👨‍💻 Most of my projects are available on Github.
-      <div/>
+<div align=""left">
+  ## ⚡️ A Few Quick Facts
+    [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=ghorvath)](https://github.com/mohouyizme/1337-readme)     
+   - 🔭 I’m currently working on my own library
+   - 🌱 I’m learning C language
+   - 👨‍💻 Most of my projects are available on Github.
+<div/>
       
+    
 
 <div align="center">
   <a href="https://github.com/mobahug">
