@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=ghorvath)](https://github.com/mohouyizme/1337-readme)
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?mobahug=lorddashme)](https://github.com/LordDashMe/github-contribution-stats/)
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=mobahug)](https://github.com/LordDashMe/github-contribution-stats/)
