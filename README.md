@@ -23,7 +23,8 @@
     -  🌱 I’m learning C language <br>
     -  👨‍💻 Most of my projects are available on Github <br>
     -  📫 Contact me: gaborulenius@gmail.com <br>
-    -  😄 Fun fact: I like drawing and crafting
+    -  😄 Fun fact: I like drawing and crafting <br>
+    -  🐝 Member of the Builders coalition
   </div>
 </div>
 <br>
