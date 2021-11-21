@@ -37,7 +37,7 @@
 <div style="display: inline_block"><br>
   <img align="right" alt="Rafa-pic" height="270" width="520" style="border-radius:150px;" src="https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=ghorvath">
   <div style="display: inline_block"><br>
-    ##⚡️ A Few Quick Facts <br> 
+    <font size="+2">⚡️ A Few Quick Facts.</font><br> 
     -  🔭 I’m currently working on my own library <br>
     -  🌱 I’m learning C language <br>
     -  👨‍💻 Most of my projects are available on Github <br>
@@ -57,6 +57,9 @@
 <div style="display: inline_block"><br>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mobahug&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobahug&layout=compact&langs_count=7&theme=dark">
+<br>
+<br>
+<br>
 <br>
 ##  Languages & Tools
 <br>
