@@ -51,5 +51,4 @@
 ![snake gif](https://github.com/mobahug/mobahug/blob/output/github-contribution-grid-snake.svg)
   
 <br>
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=Spiderpig86.Spiderpig86" alt="visitors"></p>
-
+<p><img src="https://visitor-badge.glitch.me/badge?page_id=mobahug.mobahug" alt="visitors"></p>
