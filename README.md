@@ -38,11 +38,13 @@
   <img align="right" alt="Rafa-pic" height="270" width="520" style="border-radius:150px;" src="https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=ghorvath">
   <div style="display: inline_block"><br>
     ## ⚡️ A Few Quick Facts <br> 
-    - 🔭 I’m currently working on my own library <br>
-    - 🌱 I’m learning C language <br>
-    - 👨‍💻 Most of my projects are available on Github. <br>
+    -  🔭 I’m currently working on my own library <br>
+    -  🌱 I’m learning C language <br>
+    -  👨‍💻 Most of my projects are available on Github. <br>
   </div>
 </div>
+<br>
+<br>
 <br>
 <br>
 <br>
