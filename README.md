@@ -1,10 +1,5 @@
 # Hi 👋, I am Gabor
 
-42 Student in Helsinki and currently studying C.
-
-
-
-
 <!-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... 
