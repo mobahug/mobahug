@@ -16,7 +16,7 @@
 -->
 
 <div style="display: inline_block"><br>
-  <img align="right" alt="Rafa-pic" height="270" width="520" style="border-radius:150px;" &emsp;&emsp; src="https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=ghorvath">
+  <img align="right" alt="Rafa-pic" height="270" width="520" style="border-radius:150px;" src="https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=ghorvath">
   <div style="display: inline_block"><br>
     <h2>⚡️ A Few Quick Facts.</h2> 
     •  🔭 I’m currently working on my own library <br>
