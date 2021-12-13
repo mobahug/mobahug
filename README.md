@@ -5,7 +5,8 @@
 - 💬 Ask me about ... 
 - 📫 How to reach me: ...
 - 😄 Pronouns:
-- ⚡ Fun fact: 
+- ⚡ Fun fact:
+
   ##⚡️ A Few Quick Facts  
    - 🔭 I’m currently working on my own library
    - 🌱 I’m learning C language
