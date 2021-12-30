@@ -1,7 +1,7 @@
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I am Gabor
 <!-- 👯 I’m looking to collaborate on
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ... 
+- 💬 Ask me about ..
 - 📫 How to reach me:
 - 😄 Pronouns
 - ⚡ Fun fac
