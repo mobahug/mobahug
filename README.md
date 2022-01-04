@@ -3,7 +3,7 @@
 - 🤔 I’m looking for help with .
 - 💬 Ask me about
 - 📫 How to reach me
-- 😄 Pronouns
+- 😄 Prono\
 - ⚡ Fun fac
   ##⚡️ A Few Quick Facts  
    - 🔭 I’m currently working on my own library
