@@ -4,7 +4,7 @@
 - 💬 Ask me about
 - 📫 How to reach mesadfa
 - 😄 Prono
-- ⚡ Fun fac
+- ⚡ Fun fac312
   ##⚡️ A Few Quick Facts  
    - 🔭 I’m currently working on my own library
    - 🌱 I’m learning C language
