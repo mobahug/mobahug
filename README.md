@@ -3,7 +3,7 @@
 - 🤔 I’m looking for help wit
 - 💬 Ask me asdfasdf
 - 📫 How to reach mesadfa
-- 😄 Prono
+- 😄 Pr
 - ⚡ Fun fac312
   ##⚡️ A Few Quick Facts  
    - 🔭 I’m currently working on my own library
