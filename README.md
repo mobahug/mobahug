@@ -4,7 +4,7 @@
 - 💬 Ask me asdfasdf
 - 📫 How to reach mesadfa
 - 😄 Pr
-- ⚡ Fun fac312
+- ⚡ Fun fa
   ##⚡️ A Few Quick Facts  
    - 🔭 I’m currently working on my own library
    - 🌱 I’m learning C language
