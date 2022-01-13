@@ -1,7 +1,7 @@
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I am Gabor
 <!-- 👯 I’m looking to collaborate on
 - 🤔 I’m looking for help wit
-- 💬 Ask me asdfasdf
+- 💬 Ask me asdf
 - 📫 How to reach mesadfa
 - 😄 Pr
 - ⚡ Fun fa
