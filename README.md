@@ -5,7 +5,7 @@
 - 📫 How to reach mesadfa
 - 😄 Pr
 - ⚡ Fun fa
-  ##⚡️ A Few Quick Facts  
+  ##⚡️ A Few ick Facts  
    - 🔭 I’m currently working on my own library
    - 🌱 I’m learning C language
    - 👨‍💻 Most of my projects are available on Github.
