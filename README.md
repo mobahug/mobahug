@@ -4,7 +4,7 @@
 - 💬 Ask
 - 📫 How to reach mesadfa
 - 😄 Pr
-- ⚡ Fun fa5673575
+- ⚡ Fun fa5673
   ##⚡️ A Few ick 
    - 🔭 I’m currently working on my own library
    - 🌱 I’m learning C language
