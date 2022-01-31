@@ -2,7 +2,7 @@
 <!-- 👯 I’m looking to collaborate on
 - 🤔 I’m looking for help wit
 - 💬 Ask
-- 📫 How to r
+- 📫 How t
 - 😄 Pr
 - ⚡ Fun fa5673
   ##⚡️ A Few ick 
