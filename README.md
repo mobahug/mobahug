@@ -3,7 +3,7 @@
 - 🤔 I’m looking for help wit
 - 💬 Ask
 - 📫 How tdgskmwg
-- 😄 Pr
+- 😄 Prknoibiob
 - ⚡ Fun fa5673
   ##⚡️ A Few ick 
    - 🔭 I’m currently working on my own library
