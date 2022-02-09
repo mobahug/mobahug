@@ -6,7 +6,7 @@
 - 😄 Prknoibiob
 - ⚡ Fun fa5673
   ##⚡️ A Few ick 
-   - 🔭 I’m currently working on my own library
+   - 🔭 I’m currently workg on my own library
    - 🌱 I’m learning C language
    - 👨‍💻 Most of my projects are available on Github.
 -->
