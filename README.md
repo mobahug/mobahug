@@ -10,9 +10,9 @@
    - 🌱 I’m learning C language
    - 👨‍💻 Most of my projects are available on Github.
 -->
-[![ghorvath's 42 stats](https://badge42.herokuapp.com/api/stats/ghorvath?darkmode=true&cursus=C%20Piscine)](https://github.com/GaborHorvathUlenius/badge42)
+
 <div style="display: inline_block"><br>
-  <img align="right" alt="Rafa-pic" height="270" width="520" style="border-radius:150px;" src="https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=ghorvath">
+  <img align="right" alt="Rafa-pic" height="270" width="520" style="border-radius:150px;" src="https://badge42.herokuapp.com/api/stats/ghorvath?cursus=42">
   <div style="display: inline_block"><br>
     <h2>⚡️ A Few Quick Facts.</h2> 
     •  🔭 I’m currently working on: making a recipe app as a side project <br>
