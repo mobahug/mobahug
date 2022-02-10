@@ -10,7 +10,7 @@
    - 🌱 I’m learning C language
    - 👨‍💻 Most of my projects are available on Github.
 -->
-
+[![ghorvath's 42 stats](https://badge42.herokuapp.com/api/stats/ghorvath?darkmode=true&cursus=C%2042)](https://github.com/JaeSeoKim/badge42)
 <div style="display: inline_block"><br>
   <img align="right" alt="Rafa-pic" height="270" width="520" style="border-radius:150px;" src="https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=ghorvath">
   <div style="display: inline_block"><br>
