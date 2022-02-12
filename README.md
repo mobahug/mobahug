@@ -6,6 +6,7 @@
 - 😄 Prknoibiob
 - ⚡ Fun fa5673
   ##⚡️ A Few ick 
+![](https://komarev.com/ghpvc/?username=mobahug&color=yellow)
 <div style="display: inline_block"><br>
    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mobahug&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"> &emsp;&emsp;&emsp;&emsp;
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobahug&layout=compact&langs_count=7&theme=tokyonight">
@@ -60,4 +61,4 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mobahug.mobahug)
 
-![](https://komarev.com/ghpvc/?username=mobahug&color=yellow)
+
