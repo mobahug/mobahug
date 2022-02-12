@@ -6,7 +6,9 @@
 - 😄 Prknoibiob
 - ⚡ Fun fa5673
   ##⚡️ A Few ick 
-
+<div style="display: inline_block"><br>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mobahug&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"> &emsp;&emsp;&emsp;&emsp;
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobahug&layout=compact&langs_count=7&theme=tokyonight">
  alt="Rafa-pic"
    - 🔭 I’m currently workg on my own library
    - 🌱 I’m learning C language
@@ -31,6 +33,7 @@
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mobahug&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    &emsp;&emsp;&emsp;&emsp;
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobahug&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
