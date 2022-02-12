@@ -12,7 +12,7 @@
 -->
 
 <div style="display: inline_block"><br>
-  <img align="right" alt="Rafa-pic" height="280" width="400" style="border-radius:150px;" src="https://badge42.herokuapp.com/api/stats/ghorvath?cursus=42">
+  <img align="right" alt="Rafa-pic" height="300" width="500" style="border-radius:150px;" src="https://badge42.herokuapp.com/api/stats/ghorvath?cursus=42">
   <div style="display: inline_block"><br>
     <h2>⚡️ A Few Quick Facts.</h2> 
     •  🔭 I’m currently working on: making a recipe app as a side project <br>
