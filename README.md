@@ -28,7 +28,7 @@
 <br>
 <div style="display: inline_block"><br>
     &emsp;<img height="150em" src="https://github-readme-stats.vercel.app/api?username=mobahug&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"> &emsp;&emsp;&emsp;&emsp;
-    <img height="150" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobahug&layout=compact&langs_count=7&theme=tokyonight">
+    <img height="150" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobahug&layout=compact&langs_count=7&theme=tokyonight">
 <br>
  <h2>🚀 Languages & Tools</h2> 
 <div style="display: inline_block"><br>
