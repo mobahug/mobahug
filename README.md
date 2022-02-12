@@ -58,6 +58,6 @@
   
 <br>
 
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=mobahug.mobahug" alt="visitors"></p>
+![](https://visitor-badge.glitch.me/badge?page_id=mobahug.mobahug)
 
 ![](https://komarev.com/ghpvc/?username=mobahug&color=yellow)
