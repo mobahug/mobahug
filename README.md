@@ -7,14 +7,14 @@
 - ⚡ Fun fa5673
   ##⚡️ A Few ick 
 width="520" style="border-radius:150px;" 
-align="right" alt="Rafa-pic"
+ alt="Rafa-pic"
    - 🔭 I’m currently workg on my own library
    - 🌱 I’m learning C language
    - 👨‍💻 Most of my projects are available on Github.
 -->
 
 <div style="display: inline_block"><br>
-  <img height="280em" src="https://badge42.herokuapp.com/api/stats/ghorvath?cursus=42">
+  <img align="right" height="280em" src="https://badge42.herokuapp.com/api/stats/ghorvath?cursus=42">
   <div style="display: inline_block"><br>
     <h2>⚡️ A Few Quick Facts.</h2> 
     •  🔭 I’m currently working on: making a recipe app as a side project <br>
