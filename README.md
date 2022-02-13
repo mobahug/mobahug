@@ -2,7 +2,7 @@
 <!-- 👯 I’m looking to collaborate on
 - 🤔 I’m looking for help wit
 - 💬 Ask
-- 📫 How tdgskmwg
+- 📫 How tdgskm
 - 😄 Prknoibiob
 - ⚡ Fun fa5673
   ##⚡️ A Few ick 
