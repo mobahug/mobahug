@@ -17,7 +17,7 @@
 -->
 
 <div style="display: inline_block"><br>
-  <img align="right" height="200em" width="390" style="border-radius:150px" src="https://badge42.herokuapp.com/api/stats/ghorvath?cursus=42">
+  <img align="right" height="290em" width="410" style="border-radius:150px" src="https://badge42.herokuapp.com/api/stats/ghorvath?cursus=42">
   <div style="display: inline_block"><br>
     <h2>⚡️ A Few Quick Facts.</h2> 
     •  🔭 I’m currently working on: making a recipe app as a side project <br>
