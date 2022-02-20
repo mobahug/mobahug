@@ -4,7 +4,7 @@
 - 💬 As
 - 📫 How tdgskm
 - 😄 Prknoibiob
-- ⚡ Fun fa5673
+- ⚡ Fun fa56
   ##⚡️ A Few ic
 ![](https://komarev.com/ghpvc/?username=mobahug&color=yellow)
 <div style="display: inline_block"><br>
