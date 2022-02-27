@@ -3,7 +3,7 @@
 - 🤔 I’m looking for help wit
 - 💬 As
 - 📫 How tdgskm
-- 😄 Prknoibiobqweqweqwe
+- 😄 Prknoibiobqweqwe
 - ⚡ Fun fa56
   ##⚡️ A Few ic
 ![](https://komarev.com/ghpvc/?username=mobahug&color=yellow)
