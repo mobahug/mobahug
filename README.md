@@ -19,7 +19,6 @@
 
 <div align="center" style="display: inline_block"><br>
  <img align="center" src="https://user-images.githubusercontent.com/83179142/156719281-6ce162ee-8c83-4979-91f0-c8d79305160c.png">
-  <h1 src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I am Gabor!</h1>
   <div align="center" style="display: inline_block"><br>
     <h2>⚡️ A Few Quick Facts.</h2> 
     •  🔭 I’m currently working on: making a recipe app as a side project <br>
