@@ -64,4 +64,6 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mobahug.mobahug)
 
+<div align="center" src="https://visitor-badge.glitch.me/badge?page_id=mobahug.mobahug">
+
 
