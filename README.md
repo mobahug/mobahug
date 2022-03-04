@@ -64,8 +64,5 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mobahug.mobahug)
 
-<div align="center">
-  <img="https://visitor-badge.glitch.me/badge?page_id=mobahug.mobahug">
-</div>
 
 
