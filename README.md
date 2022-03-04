@@ -14,10 +14,12 @@
    - 🔭 I’m currently workg on my own library
    - 🌱 I’m learning C language
    - 👨‍💻 Most of my projects are available on Github.
+<img align="right" height="290em" width="410" style="border-radius:150px" src="https://badge42.herokuapp.com/api/stats/ghorvath?cursus=42">
 -->
 
 <div style="display: inline_block"><br>
-  <img align="right" height="290em" width="410" style="border-radius:150px" src="https://badge42.herokuapp.com/api/stats/ghorvath?cursus=42">
+  ![header_](https://user-images.githubusercontent.com/83179142/156719281-6ce162ee-8c83-4979-91f0-c8d79305160c.png)
+
   <div style="display: inline_block"><br>
     <h2>⚡️ A Few Quick Facts.</h2> 
     •  🔭 I’m currently working on: making a recipe app as a side project <br>
