@@ -1,6 +1,6 @@
 
 <!-- 👯 I’m looking to collaborate on
-- 🤔 I’m looking for help wit
+- 🤔 I’m looking for help 
 - 💬 As
 - 📫 How tdgskm
 - 😄 Prknoibiobqwe
