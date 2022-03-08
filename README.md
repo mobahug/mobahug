@@ -12,7 +12,7 @@
    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mobahug&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"> &emsp;&emsp;&emsp;&emsp;
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobahug&layout=compact&langs_count=7&theme=tokyonight">
  alt="Rafa-pic"
-   - 🔭 I’m currently workg on my own library
+   - 🔭 I’m currently workg on my own libra
    - 🌱 I’m learning C language
    - 👨‍💻 Most of my projects are available on Github.
 <img align="right" height="290em" width="410" style="border-radius:150px" src="https://badge42.herokuapp.com/api/stats/ghorvath?cursus=42">
