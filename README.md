@@ -5,7 +5,7 @@
 - 📫 How tdgskm
 - 😄 Prknoib
 - ⚡ Fun fa5
-  ##⚡️ A Few
+  ##⚡️ A 
 # Hi ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I am Gabor
 ![](https://komarev.com/ghpvc/?username=mobahug&color=yellow)
 <div style="display: inline_block"><br>
