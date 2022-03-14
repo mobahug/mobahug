@@ -3,7 +3,7 @@
 - 🤔 I’m looking for help 1234
 - 💬 As
 - 📫 How tdgskmertyserysr5tyu
-- 😄 Prknoib
+- 😄 Prkno
 - ⚡ Fun fa
   ##⚡️ A 
 # Hi ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I am Gabor
