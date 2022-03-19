@@ -37,13 +37,6 @@
 <br>
 <br>
 <br>
-<style>
-  img {
-				max-width: 100%;
-				height: auto;
-				width: auto\9; /* ie8 */
-			}
-</style>
 <div align="center">
   <a href="https://github.com/mobahug">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mobahug&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
