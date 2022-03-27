@@ -2,7 +2,7 @@
 <!-- 👯 I’m looking to collaborate on
 - 🤔 I’m looking for help 1234
 - 💬 As
-- 📫 How tdgskmertysery
+- 📫 How tdgskmertys
 - 😄 Prknoasfwq512
 - ⚡ Fun fa
   ##⚡️ A 
