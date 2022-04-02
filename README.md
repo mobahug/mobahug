@@ -1,6 +1,6 @@
 
 <!-- 👯 I’m looking to collaborate on
-- 🤔 I’m looking for help 1
+- 🤔 I’m looking for help 
 - 💬 As
 - 📫 How tdgskmertys
 - 😄 Prknoasfwq512
