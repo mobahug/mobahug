@@ -3,7 +3,7 @@
 - 🤔 I’m looking for hel
 - 💬 As
 - 📫 How tdgskmertys
-- 😄 Prknoasfwq512
+- 😄 Prknoasfwq512öö
 - ⚡ Fun fa
   ##⚡️ A 
 # Hi ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I am Gabor
