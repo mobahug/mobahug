@@ -26,7 +26,7 @@
   </p>
   <div align="center" style="display: inline_block"><br>
     <h2>⚡️ A Few Quick Facts.</h2> 
-    •  🔭 I’m currently working on: preparring for 2weeks PHP bootcamp <br>
+    •  🔭 I’m currently working on:passed 2weeks PHP bootcamp so now resting <br>
     •  🌱 I’m learning PHP language <br>
     •  🐝 Member of the Builders coalition <br>
     •  👨‍💻 Most of my projects are available on Github <br>
