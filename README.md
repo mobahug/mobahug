@@ -1,6 +1,6 @@
 
 <!-- 👯 I’m looking to collaborate on
-- 🤔 I’m looking for hello
+- 🤔 I’m looking for hel
 - 💬 As
 - 📫 How tdgskmertysasdfsf
 - 😄 Prknoasfasd
