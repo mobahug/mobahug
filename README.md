@@ -1,8 +1,8 @@
 
 <!-- 👯 I’m looking to collaborate
 - 🤔 I’m looking for hel
-- 💬 As
-- 📫 How tdgskmertysas
+- 💬 A
+- 📫 How tdgskmertys
 - 😄 Prknoasfasd
 - ⚡ Fun fa
   ##⚡️ A 
