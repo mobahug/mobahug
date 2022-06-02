@@ -27,7 +27,7 @@
   <div align="center" style="display: inline_block"><br>
     <h2>⚡️ A Few Quick Facts.</h2> 
     •  🔭 I’m currently working on: re-creating Instagram from skretch <br>
-    •  💬 For that I 'm using: MySQL, PHP, BULMA, HTML, JS, CSS, MAMP
+    •  💬 Using: MySQL, PHP, BULMA, HTML, JS, CSS, MAMP
     •  🌱 I’m learning PHP language <br>
     •  🐝 Member of the Builders coalition <br>
     •  👨‍💻 Most of my projects are available on Github <br>
