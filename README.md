@@ -2,7 +2,7 @@
 <!-- 👯 I’m looking to collaborate
 - 🤔 I’m looking for h
 - 💬 A
-- 📫 How tdgskmertasdfghjk
+- 📫 How tdgskmertasdfgh
 - 😄 Prknoasfasd
 - ⚡ Fun 
   ##⚡️ A 
