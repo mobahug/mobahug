@@ -3,7 +3,7 @@
 - 🤔 I’m looking for h
 - 💬 A
 - 📫 How tdgskmertasdfgh
-- 😄 Prknoasfasd if you see this comment there is two options: you hire me as a developer or invite for a coffee
+- 😄 Prknoasfasd if you see this comment here you have two options: you hire me as a developer or invite for a coffee
 - ⚡ Fun 
   ##⚡️ A 
 # Hi ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I am Gabor
