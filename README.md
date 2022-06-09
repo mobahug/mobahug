@@ -26,7 +26,7 @@
   </p>
   <div align="center" style="display: inline_block"><br>
     <h2>⚡️ A Few Quick Facts.</h2> 
-    •  🔭 I’m currently working on: re-creating Instagram from skretch <br>
+    •  🔭 I’m currently working on: re-creating ![Instagram](https://github.com/mobahug/InstagramClone_42) from skretch <br>
     •  💬 Using: MySQL, PHP, BULMA, HTML, JS, CSS, MAMP <br>
     •  🌱 I’m learning PHP language <br>
     •  🐝 Member of the Builders coalition <br>
