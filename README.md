@@ -26,9 +26,9 @@
   </p>
   <div align="center" style="display: inline_block"><br>
     <h2>⚡️ A Few Quick Facts.</h2> 
-    •  🔭 I’m currently working on: re-creating Instagram from skretch <br>
-    •  💬 Using: MySQL, PHP, BULMA, HTML, JS, CSS, MAMP <br>
-    •  🌱 I’m learning PHP language <br>
+    •  🔭 I’m currently working on: re-creating Tinder from skretch <br>
+    •  💬 Using: NodeJS, some microframeworkd and probably react <br>
+    •  🌱 I’m learning NodeJS language <br>
     •  🐝 Member of the Builders coalition <br>
     •  👨‍💻 Most of my projects are available on Github <br>
     •  📫 Contact me: gaborulenius@gmail.com <br>
