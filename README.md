@@ -31,6 +31,7 @@
     •  🌱 I’m learning NodeJS language <br>
     •  🐝 Member of the Builders coalition <br>
     •  👨‍💻 Most of my projects are available on Github <br>
+    •  🔥 Favourite project [Link](https://github.com/mobahug/instagram_clone_42_SP)<br>
     •  📫 Contact me: gaborulenius@gmail.com <br>
     •  😄 Fun fact: I like drawing and crafting 
   </div>
