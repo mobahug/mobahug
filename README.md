@@ -39,19 +39,18 @@
 <br>
 <br>
 <div align="center">
-  <h3>📫 Contact me:</h3>
-  <a href="https://www.linkedin.com/in/g%C3%A0bor-horv%C3%A0th-ulenius-07526719a/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height ="40px" width="40px"/>
-  </a><br>
-</div>
-<br>
-<div align="center">
   <a href="https://github.com/mobahug">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mobahug&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     &emsp;&emsp;&emsp;&emsp;
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobahug&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-
+<br>
+<div align="center">
+  <h3>📫 Contact me:</h3>
+  <a href="https://www.linkedin.com/in/g%C3%A0bor-horv%C3%A0th-ulenius-07526719a/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height ="40px" width="40px"/>
+  </a>
+</div>
 <br>
  <h2 align="center">🚀 Languages & Tools</h2> 
 <div align="center" style="display: inline_block" ><br>
