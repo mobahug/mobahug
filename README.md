@@ -29,7 +29,7 @@
     •  🔭 I’m currently working on: re-creating Tinder from skretch <br>
     •  💬 Using: NodeJS, some microframeworkd and probably react <br>
     •  🌱 I’m learning NodeJS language <br>
-    •  🐝 Member of the Builders coalition <br>
+    •  🐝 Member of the Hexagon student organisation <br>
     •  👨‍💻 Most of my projects are available on Github <br>
     •  🔥 Favourite project <a href="https://github.com/mobahug/instagram_clone_42_SP">CHECK OUT</a><br>
     •  😄 Fun fact: I like drawing and crafting 
@@ -51,7 +51,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height ="40px" width="40px"/>
   </a>
   <a href="mailto:gaborulenius@gmail.com">
-    <img height="40px" width="40px" src="https://user-images.githubusercontent.com/1412131/58957746-8d342500-87a1-11e9-9c34-4c757712bd27.png" />
+    <img height="40px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
   </a>
 </div>
 <br>
