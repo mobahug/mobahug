@@ -38,8 +38,8 @@
 <br>
 <br>
 <br>
-#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> View my stats on Github 
 <div align="center">
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> View my stats on Github 
   <a href="https://github.com/mobahug">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mobahug&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     &emsp;&emsp;&emsp;&emsp;
@@ -52,7 +52,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height ="40px" width="40px"/>
   </a>
   <a href="mailto:gaborulenius@gmail.com">
-    <img height="40px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/email-icon/email-icon.svg" />
+    <img height="40px" width="40px" src="https://user-images.githubusercontent.com/1412131/58957746-8d342500-87a1-11e9-9c34-4c757712bd27.png"" />
   </a>
 </div>
 <br>
