@@ -22,7 +22,7 @@
  <img align="center" src="https://user-images.githubusercontent.com/83179142/156719281-6ce162ee-8c83-4979-91f0-c8d79305160c.png">
   <h1 align="center">Hi ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> , I am Gabor</h1>
   <p align="center">
-  <a href="https://github.com/mobahug/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Fulltime%20student%20of%20the%20famous%2042%20school;Developing%20fullstack%Tinder%20clone;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=700&height=45&color=3382FF&vCenter=true&size=22"></a>
+  <a href="https://github.com/mobahug/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Fulltime%20student%20of%20the%20famous%2042%20school;Developing%20fullstack%20Tinder%20clone;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=700&height=45&color=3382FF&vCenter=true&size=22"></a>
   </p>
   <div align="center" style="display: inline_block"><br>
     <h2>⚡️ A Few Quick Facts.</h2> 
