@@ -50,6 +50,9 @@
   <a href="https://www.linkedin.com/in/g%C3%A0bor-horv%C3%A0th-ulenius-07526719a/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height ="40px" width="40px"/>
   </a>
+  <a href="mailto:gaborulenius@gmail.com">
+    <img height="40px" width="40px" src="https://user-images.githubusercontent.com/1412131/58957746-8d342500-87a1-11e9-9c34-4c757712bd27.png" />
+  </a>
 </div>
 <br>
  <h2 align="center">🚀 Languages & Tools</h2> 
