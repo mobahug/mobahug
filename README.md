@@ -32,14 +32,18 @@
     •  🐝 Member of the Builders coalition <br>
     •  👨‍💻 Most of my projects are available on Github <br>
     •  🔥 Favourite project <a href="https://github.com/mobahug/instagram_clone_42_SP">CHECK OUT</a><br>
-    •  📫 Contact me: <a href="https://www.linkedin.com/in/g%C3%A0bor-horv%C3%A0th-ulenius-07526719a/">
-                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height ="40px" width="40px"/>
-                      </a> <br>
     •  😄 Fun fact: I like drawing and crafting 
   </div>
 </div>
 <br>
 <br>
+<br>
+<div align="center">
+  <h3>📫 Contact me:</h3>
+  <a href="https://www.linkedin.com/in/g%C3%A0bor-horv%C3%A0th-ulenius-07526719a/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height ="40px" width="40px"/>
+  </a><br>
+</div>
 <br>
 <div align="center">
   <a href="https://github.com/mobahug">
