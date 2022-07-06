@@ -37,7 +37,7 @@
 </div>
 <br>
 <div align="center">
-  <h3>📫 Contact me:</h3>
+  <h2>📫 Contact me:</h2>
   <a href="https://www.linkedin.com/in/g%C3%A0bor-horv%C3%A0th-ulenius-07526719a/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height ="40px" width="40px"/>
   </a>
@@ -47,7 +47,7 @@
 </div>
 <br>
 <div align="center" style="display: inline_block">
-  <h3>View my stats on Github</h3> 
+  <h2>View my stats on Github</h2> 
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 </div>
 <div align="center">
