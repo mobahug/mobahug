@@ -51,7 +51,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height ="40px" width="40px"/>
   </a>
   <a href="mailto:gaborulenius@gmail.com">
-    <img height="40px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+    <img height="40px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gmail/gmail-original.svg" />
   </a>
 </div>
 <br>
