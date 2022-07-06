@@ -36,7 +36,6 @@
   </div>
 </div>
 <br>
-<br>
 <div align="center">
   <h3>📫 Contact me:</h3>
   <a href="https://www.linkedin.com/in/g%C3%A0bor-horv%C3%A0th-ulenius-07526719a/">
