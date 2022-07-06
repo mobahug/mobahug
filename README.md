@@ -29,7 +29,7 @@
     •  🔭 I’m currently working on: re-creating Tinder from skretch <br>
     •  💬 Using: NodeJS, some microframeworkd and probably react <br>
     •  🌱 I’m learning NodeJS language <br>
-    •  🐝 Member of the Hexagon student organisation <br>
+    •  🐝 Member of the Hexagon student organization <br>
     •  👨‍💻 Most of my projects are available on Github <br>
     •  🔥 Favourite project <a href="https://github.com/mobahug/instagram_clone_42_SP">CHECK OUT</a><br>
     •  😄 Fun fact: I like drawing and crafting 
