@@ -27,7 +27,7 @@
   <div align="center" style="display: inline_block"><br>
     <h2>⚡️ A Few Quick Facts.</h2> 
     •  🔭 I’m currently working on: re-creating Tinder from skretch <br>
-    •  💬 Using: NodeJS, some microframeworkd and probably react <br>
+    •  💬 Using: NodeJS, Docker, JS and many more... <br>
     •  🌱 I’m currently studying NodeJS language <br>
     •  🐝 Member of the Hexagon student organization <br>
     •  👨‍💻 Most of my projects are available on Github <br>
