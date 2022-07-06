@@ -38,7 +38,7 @@
 <br>
 <br>
 <div align="center">
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> View my stats on Github 
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"><h3>View my stats on Github</h3> 
 </div>
 <br>
 <div align="center">
