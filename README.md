@@ -2,7 +2,7 @@
 <!-- 👯 I’m looking to collaborate
 - 🤔 I’m looking
 - 💬 A
-- 📫 How tdgskmert12345678910111213789
+- 📫 How tdgskmert1234567891011121378934
 - 😄 Prknoasfasd if you see this comment here you have two options: you hire me as a developer or invite for a coffee
 - ⚡ Fun 
   ##⚡️ A 
