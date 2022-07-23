@@ -28,7 +28,7 @@
     <h2>⚡️ A Few Quick Facts.</h2> 
     •  🔭 I’m currently working on: re-creating Tinder from skretch <br>
     •  💬 Using: NodeJS, Docker, JS and many more... <br>
-    •  🌱 I’m currently studying NodeJS language <br>
+    •  🌱 I’m currently studying React language <br>
     •  🐝 Member of the Hexagon student organization <br>
     •  👨‍💻 Most of my projects are available on Github <br>
     •  🔥 My proudest project so far <a href="https://github.com/mobahug/instagram_clone_42_SP">CHECK OUT</a><br>
