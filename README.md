@@ -30,9 +30,9 @@
     •  💬 Using: NodeJS, Docker, JS and many more... <br>
     •  🌱 I’m currently studying React language <br>
     •  🐝 Member of the Hexagon student organization <br>
-    •  🏆 <a href="https://mobahug.github.io/gaborulenius/">My Portfolio</a><br>
+    •  🏆 Check out <a href="https://mobahug.github.io/gaborulenius/">My Portfolio</a><br>
     •  👨‍💻 Most of my projects are available on Github <br>
-    •  🔥 My proudest project so far <a href="https://github.com/mobahug/instagram_clone_42_SP">CHECK OUT</a><br>
+    •  🔥 My proudest project so far <a href="https://github.com/mobahug/instagram_clone_42_SP">INSTAGRAM CLONE</a><br>
     •  😄 Fun fact: I like drawing and crafting 
   </div>
 </div>
