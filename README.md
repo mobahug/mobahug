@@ -1,7 +1,7 @@
 
 <!-- 👯 I’m looking to collaborate
 - 🤔 I’m looking
-- 💬 A
+- 💬 
 - 📫 developing tinder continuing on gitlab repo
 - 😄 Prknoasfasd if you see this comment here you have two options: you hire me as a developer or invite for a coffee
 - ⚡ Fun 
