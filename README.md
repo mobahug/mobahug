@@ -1,5 +1,5 @@
 
-<!-- 👯 I’m looking to collaborate
+<!-- 👯 I’m looking to collaborat
 - 🤔 I’m looking
 - 💬 
 - 📫 developing tinder continuing on gitlab repo
