@@ -2,7 +2,7 @@
 <!-- 👯 I’m looking to collaborat
 - 🤔 I’m looking
 - 💬 
-- 📫 developing tinder continuing on gitlab repo
+- 📫 developing tinder continuing on gitlab repo, today doing filters with react in it
 - 😄 Prknoasfasd if you see this comment here you have two options: you hire me as a developer or invite for a coffee
 - ⚡ Fun 
   ##⚡️ A 
