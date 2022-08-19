@@ -1,7 +1,7 @@
 
 <!-- 👯 I’m looking to collaborate
 - 🤔 I’m looking
-- 💬 
+- 💬 You can't learn everything, but you have to convince yourself that you can learn anything
 - 📫 developing tinder continuing on gitlab repo, today doing filters with react in it
 - 😄 Prknoasfasd if you see this comment here you have two options: you hire me as a developer or invite for a coffee
 - ⚡ Fun 
