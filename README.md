@@ -1,5 +1,5 @@
 
-<!-- 👯 I’m looking to collaborate
+<!-- 👯 I’m looking to collaborat
 - 🤔 I’m looking
 - 💬 You can't learn everything, but you have to convince yourself that you can learn anything
 - 📫 developing tinder continuing on gitlab repo, today doing filters with react in it
