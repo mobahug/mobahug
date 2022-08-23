@@ -1,8 +1,10 @@
 
 <!-- 👯 I’m looking to collaborat
 - 🤔 I’m looking for junior software developer job
-- 💬 You can't learn everything, but you have to convince yourself that you can learn anything
-- 📫 developing tinder continuing on gitlab repo, today doing filters with react in it
+- 💬 You can't learn everything, but you have to convince yourself that you can learn anything - John Carmack
+- 📫 developing tinder continuing on gitlab repo,
+today doing filters with react in it
+today finished the upload images based on user login tokens
 - 😄 Prknoasfasd if you see this comment here you have two options: you hire me as a developer or invite for a coffee
 - ⚡ Fun 
   ##⚡️ A 
