@@ -1,5 +1,6 @@
 
 <!-- 👯 I’m looking to co
+start to look for job
 puted private the tinder clone repo
 - 🤔 I’m looking for junior software developer job
 - 💬 You can't learn everything, but you have to convince yourself that you can learn anything - John Carmack
