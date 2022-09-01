@@ -1,6 +1,7 @@
 
 <!-- 👯 I’m looking to co
 start to look for job
+,.
 first application officialy sent
 puted private the tinder clone repo
 - 🤔 I’m looking for junior software developer job
