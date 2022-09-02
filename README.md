@@ -1,7 +1,7 @@
 
 <!-- 👯 I’m looking to co
 start to look for job
-,.
+today s log - i finally could make properly the tinder clone images to limit down frontend backend and add default image if no picture present
 first application officialy sent
 puted private the tinder clone repo
 - 🤔 I’m looking for junior software developer job
