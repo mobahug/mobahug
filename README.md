@@ -1,5 +1,6 @@
 
 <!-- 👯 I’m looking to 
+excited about an pcoming dev interview
 today continued to work on the tinder clone frontend part and sent couple of applications too (exciting times)
 start to look for job
 today s log - i finally could make properly the tinder clone images to limit down frontend backend and add default image if no picture present
