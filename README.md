@@ -1,5 +1,6 @@
 
 <!-- 👯 I’m looking to 
+got better
 got sick
 excited about an icoming dev interview
 today continued to work on the tinder clone frontend part and sent couple of applications too (exciting times)
