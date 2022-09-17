@@ -1,5 +1,5 @@
 
-<!-- 👯 I’m looking 
+<!-- 👯 I’m looki
 got better
 got sick
 excited about an icoming dev interview
