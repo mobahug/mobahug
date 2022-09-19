@@ -1,5 +1,6 @@
 
 <!-- 👯 I’m looki
+got back to school and almost finished the frontend of the tidne clone
 got better
 got sick
 excited about an icoming dev interview
