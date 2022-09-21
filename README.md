@@ -1,5 +1,6 @@
 
 <!-- 👯 I’m looki
+after my very first tech interview
 got back to school and almost finished the frontend of the tidne clone
 got better
 got sick
