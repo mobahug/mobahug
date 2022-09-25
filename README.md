@@ -1,5 +1,6 @@
 
 <!-- 👯 I’m look
+still waiting
 waiting
 after my very first tech interview
 got back to school and almost finished the frontend of the tidne clone
