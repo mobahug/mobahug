@@ -1,5 +1,6 @@
 
 <!-- 👯 I’m look
+failed but got a new opportunity
 still waiting
 waiting
 after my very first tech interview
