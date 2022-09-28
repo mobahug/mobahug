@@ -1,5 +1,6 @@
 
 <!-- 👯 I’m look
+bugfixing
 failed but got a new opportunity
 still waiting
 waiting
