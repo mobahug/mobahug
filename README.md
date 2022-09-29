@@ -1,5 +1,6 @@
 
 <!-- 👯 I’m look
+tried to make assignment
 bugfixing
 failed but got a new opportunity
 still waiting
