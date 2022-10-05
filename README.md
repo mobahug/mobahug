@@ -1,5 +1,6 @@
 
 <!-- 👯 I’m look
+polishing and debugging
 tinder clone soon ready
 after some hard time actually could make it
 tried to make assignment
