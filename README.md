@@ -30,13 +30,13 @@ today finished the upload images based on user login tokens
   <div align="center" style="display: inline_block"><br>
     <h2>⚡️ A Few Quick Facts.</h2> 
     •  🔭 I’m currently working on: re-creating Tinder from skretch <br>
-    •  💬 Using: NodeJS, Docker, JS and many more... <br>
+    •  💬 Using: NodeJS, Docker, React, PostgreSQL and many more... <br>
     •  🌱 I’m currently studying React language <br>
     •  🐝 Member of the Hexagon student organization <br>
     •  👨‍💻 Most of my projects are available on Github <br>
     •  🔥 My proudest project so far <a href="https://github.com/mobahug/instagram_clone_42_SP">INSTAGRAM CLONE</a><br>
     •  🏆 Check out <a href="https://mobahug.github.io/gaborulenius/">My Portfolio</a><br>
-    •  😄 Fun fact: I like drawing and crafting
+    •  😄 Fun fact: I made on mobile in Minecraft the R.M.S Titanic block by block
   </div>
 </div>
 <br>
