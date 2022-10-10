@@ -84,7 +84,7 @@ today finished the upload images based on user login tokens
   <img align="center" alt="Linux" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Rafa-CSS3" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Bash" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
-   <img align="center" alt="Rafa-NPM" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original.svg">
+   <img align="center" alt="Rafa-npm" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original.svg">
    <img align="center" alt="Rafa-React" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Docker" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="PHP" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
