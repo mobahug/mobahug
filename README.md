@@ -1,5 +1,6 @@
 
 <!-- 👯 I’m look
+project done, waitinig for upload to the github repo
 small bugs still and ready
 Tinder clone polishing phase
 - 🤔 I’m looking for junior software developer job
