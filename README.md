@@ -1,8 +1,5 @@
 
 <!-- 👯 I’m look
-project done, waitinig for upload to the github repo
-small bugs still and ready
-Tinder clone polishing phase
 - 🤔 I’m looking for junior software developer job
 - 💬 You can't learn everything, but you have to convince yourself that you can learn anything - John Carmack
 - 📫 developing tinder continuing on gitlab repo,
