@@ -7,7 +7,7 @@ today doing filters with react in it
 today finished the upload images based on user login tokens
 - 😄 Prknoasfasd if you see this comment here you have two options: you hire me as a developer or invite for a coffee
 - ⚡ Fun 
-  ##⚡️ A 
+  ##⚡️
 # Hi ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I am Gabor
 ![](https://komarev.com/ghpvc/?username=mobahug&color=yellow)
 <div style="display: inline_block"><br>
