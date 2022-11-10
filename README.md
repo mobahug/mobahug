@@ -28,9 +28,9 @@ today finished the upload images based on user login tokens
   </p>
   <div align="center" style="display: inline_block"><br>
     <h2>⚡️ A Few Quick Facts.</h2> 
-    •  🔭 I’m currently working on: re-creating Tinder from skretch <br>
+    •  🔭 I’m currently working on: creating Netflix-clone from skretch <br>
     •  💬 Using: NodeJS, Docker, React, PostgreSQL and many more... <br>
-    •  🌱 I’m currently studying React language <br>
+    •  🌱 I’m currently studying Nodejs language <br>
     •  🐝 Member of the Hexagon student organization <br>
     •  👨‍💻 Most of my projects are available on Github <br>
     •  🔥 My proudest project1 so far <a href="https://github.com/mobahug/instagram_clone_42_SP">INSTAGRAM CLONE</a><br>
