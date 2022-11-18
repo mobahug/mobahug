@@ -28,7 +28,7 @@ today finished the upload images based on user login tokens
   </p>
   <div align="center" style="display: inline_block"><br>
     <h2>⚡️ A Few Quick Facts.</h2> 
-    •  🔭 I’m currently working on: creating Netflix-clone from skretch <br>
+    •  🔭 I’m currently working on: preparing with NextJS & MongoDB <br>
     •  💬 Using: NodeJS, Docker, React, PostgreSQL and many more... <br>
     •  🌱 I’m currently studying Nextjs language <br>
     •  🐝 Member of the Hexagon student organization <br>
