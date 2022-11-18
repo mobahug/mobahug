@@ -35,6 +35,7 @@ today finished the upload images based on user login tokens
     •  👨‍💻 Most of my projects are available on Github <br>
     •  🔥 My proudest project1 so far <a href="https://github.com/mobahug/instagram_clone_42_SP">INSTAGRAM CLONE</a><br>
     •  🔥 My proudest projects2 so far <a href="https://github.com/mobahug/TinderClone_42">TINDER CLONE</a><br>
+    •  🔥 My proudest projects3 so far <a href="https://github.com/mobahug/Netflix_Clone_42">NETFLIX CLONE</a><br>
     •  🏆 Check out <a href="https://mobahug.github.io/gaborulenius/">My Portfolio</a><br>
     •  😄 Fun fact: I made on mobile in Minecraft the R.M.S Titanic block by block
   </div>
