@@ -1,5 +1,5 @@
 
-<!-- 👯 I
+<!-- 👯 I6541
 - 🤔 I’m looking for junior software developer job
 - 💬 You can't learn everything, but you have to convince yourself that you can learn anything - John Carmack
 - 📫 developing tinder continuing on gitlab repo,
