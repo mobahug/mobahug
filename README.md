@@ -29,7 +29,7 @@ today finished the upload images based on user login tokens
   </p>
   <div align="center" style="display: inline_block"><br>
     <h2>⚡️ A Few Quick Facts.</h2> 
-    •  🔭 I’m currently working on: preparing with NextJS & MongoDB <br>
+    •  🔭 I’m currently working with: NextJS & MongoDB, Mongoose <br>
     •  💬 Using: different type of resources for studying <br>
     •  🌱 I’m currently studying Nextjs language <br>
     •  🐝 Member of the Hexagon student organization <br>
