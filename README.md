@@ -1,6 +1,6 @@
 
 <!-- 👯
-- 🤔 sdknknk222
+- 🤔 sdknknk
 - 💬 You can't learn everything, but you have to convince yourself that you can learn anything - John Carmack
 - 📫 developing tinder continuing on gitlab repo,
 today doing filters with react in it
