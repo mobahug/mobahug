@@ -1,4 +1,3 @@
-![Kapture 2023-08-18 at 10 53 18](https://github.com/mobahug/mobahug/assets/83179142/c90ea2a1-aca5-4ef3-8d1e-4814351b2d30)
 
 <!-- 👯
 - 🤔 sdk
