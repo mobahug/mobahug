@@ -24,13 +24,13 @@ today finished the upload images based on user login tokens
  <img align="center" src="https://user-images.githubusercontent.com/83179142/156719281-6ce162ee-8c83-4979-91f0-c8d79305160c.png">
   <h1 align="center">Hi ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> , I am Gabor</h1>
   <p align="center">
-  <a href="https://github.com/mobahug/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack%20Developer%20from%20the%20famous%2042%20school;Currently%20working%20with%20NextJS%20and%20MongoDB;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=700&height=45&color=3382FF&vCenter=true&size=22"></a>
+  <a href="https://github.com/mobahug/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack%20Developer%20from%20the%20famous%2042%20school;Currently%20working%20with%20React%20and%20MUI;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=700&height=45&color=3382FF&vCenter=true&size=22"></a>
   </p>
   <div align="center" style="display: inline_block"><br>
     <h2>⚡️ A Few Quick Facts.</h2> 
-    •  🔭 I’m currently working with: NextJS & MongoDB, Mongoose <br>
+    •  🔭 I’m currently working with: React, Typescript, nodeJS, MUI <br>
     •  💬 Using: different type of resources for studying <br>
-    •  🌱 I’m currently studying Nextjs language <br>
+    •  🌱 I’m currently studying three.js language <br>
     •  🐝 Member of the Hexagon student organization <br>
     •  👨‍💻 Most of my projects are available on Github <br>
     •  🔥 My proudest project1 so far <a href="https://github.com/mobahug/instagram_clone_42_SP">INSTAGRAM CLONE</a><br>
