@@ -8,7 +8,9 @@ today finished the upload images based on user login tokens
 - 😄 Prknoasfasd if you see this comment here you have two options: you hire me as a developer or invite for a coffee
 - ⚡ Fun 
   ##⚡️
-  ![](https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg)
+ 
+  ![snake gif](https://github.com/mobahug/mobahug/blob/output/github-contribution-grid-snake.svg)
+ 
 # Hi ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I am Gabor
 ![](https://komarev.com/ghpvc/?username=mobahug&color=yellow)
 <div style="display: inline_block"><br>
@@ -115,10 +117,9 @@ today finished the upload images based on user login tokens
 </div>
 <br>
 
-![snake gif](https://github.com/mobahug/mobahug/blob/output/github-contribution-grid-snake.svg)
-  
+ 
 <br>
-
+ ![](https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg)
 ![](https://visitor-badge.glitch.me/badge?page_id=mobahug.mobahug)
 
 <br>
