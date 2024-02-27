@@ -119,7 +119,7 @@ today finished the upload images based on user login tokens
 
  
 <br>
- ![](https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg)
+
 ![](https://visitor-badge.glitch.me/badge?page_id=mobahug.mobahug)
 
 <br>
