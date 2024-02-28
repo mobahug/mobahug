@@ -116,7 +116,9 @@ today finished the upload images based on user login tokens
   </div>
 </div>
 <br>
-
+<div align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/mobahug/mobahug/output/github-contribution-grid-snake-dark.svg" />
+</div>
  
 <br>
 
