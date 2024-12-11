@@ -29,6 +29,7 @@ today finished the upload images based on user login tokens
   <p align="center">
   <a href="https://github.com/mobahug/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack%20Developer%20from%20the%20famous%2042%20school;Currently%20working%20with%20React%20and%20MUI;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=700&height=45&color=3382FF&vCenter=true&size=22"></a>
   </p>
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2cd91dff-ee09-4ccd-8303-fc4b58749481" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
   <div align="center" style="display: inline_block"><br>
     <h2>⚡️ A Few Quick Facts.</h2> 
     •  🔭 I’m currently working with: React, Typescript, nodeJS, MUI <br>
