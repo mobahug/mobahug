@@ -78,6 +78,7 @@ today finished the upload images based on user login tokens
 
  <h2 align="center">🚀 Languages</h2> 
 <div align="center" style="display: inline_block" ><br>
+  <img align="center" alt="Rafa-HTML" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-original.svg">
   <img align="center" alt="Rafa-HTML" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
   <img align="center" alt="Rafa-HTML" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg">
   <img align="center" alt="Rafa-HTML" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
