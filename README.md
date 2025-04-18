@@ -31,16 +31,16 @@ today finished the upload images based on user login tokens
   </p>
   <div align="center" style="display: inline_block"><br>
     <h2>⚡️ A Few Quick Facts.</h2> 
-    •  🔭 I’m currently working with: React, Typescript, nodeJS, MUI <br>
-    •  💬 Using: different type of resources for studying <br>
-    •  🌱 I’m currently studying three.js language <br>
-    •  🐝 Member of the Hexagon student organization <br>
+    •  🔭 I’m currently working with: React, Typescript, nodeJS, MUI, Terraform <br>
+    •  💬 Using: Cloud base infrastructure at work <br>
+    •  🌱 I’m currently studying Terraform <br>
+    •  🐝 Alumni student at Hive Helsinki <br>
     •  👨‍💻 Most of my projects are available on Github <br>
     •  🔥 My proudest project1 so far <a href="https://github.com/mobahug/instagram_clone_42_SP">INSTAGRAM CLONE</a><br>
     •  🔥 My proudest projects2 so far <a href="https://github.com/mobahug/TinderClone_42">TINDER CLONE</a><br>
     •  🔥 My proudest projects3 so far <a href="https://github.com/mobahug/Netflix_Clone_42">NETFLIX CLONE</a><br>
     •  🏆 Check out <a href="https://mobahug.github.io/gaborulenius/">My Portfolio</a> to get to know from me more<br>
-    •  😄 Fun fact: I made on Minecraft mobile the R.M.S Titanic block by block
+    •  😄 Fun fact: I solved Rubic's cube in 30s
   </div>
 </div>
 <br>
