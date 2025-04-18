@@ -119,7 +119,8 @@ today finished the upload images based on user login tokens
     <img align="center" alt="confluence" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original.svg">
     <img align="center" alt="jira" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg">
     <img align="center" alt="figma" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-    <img align="center" alt="miro" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/miro/miro-original.svg">
+    <img align="center" alt="chatgpt" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chatgpt/chatgpt-original.svg">
+    <img align="center" alt="copilot" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/copilot/copilot-original.svg">
     
   
   
