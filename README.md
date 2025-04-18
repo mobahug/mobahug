@@ -98,7 +98,7 @@ today finished the upload images based on user login tokens
   <img align="center" alt="postgresql" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
   <img align="center" alt="typescript" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="jotai" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jotai/jotai-original.svg">
+  <img align="center" alt="azuredevops" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-original.svg">
 </div>
 
 
