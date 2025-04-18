@@ -117,6 +117,10 @@ today finished the upload images based on user login tokens
     <img align="center" alt="Azure" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
     <img align="center" alt="azuredevops" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-original.svg">
     <img align="center" alt="confluence" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original.svg">
+    <img align="center" alt="jira" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg">
+    <img align="center" alt="figma" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+    <img align="center" alt="miro" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/miro/miro-original.svg">
+    
   
   
   </div>
