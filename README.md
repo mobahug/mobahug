@@ -33,7 +33,7 @@ today finished the upload images based on user login tokens
     <h2>⚡️ A Few Quick Facts.</h2> 
     •  🔭 I’m currently working with: React, Typescript, nodeJS, MUI, Terraform <br>
     •  💬 Using: Cloud base infrastructure at work <br>
-    •  🌱 I’m currently studying Terraform <br>
+    •  🌱 I’m currently studying Kotlin <br>
     •  🐝 Alumni student at Hive Helsinki <br>
     •  👨‍💻 Most of my projects are available on Github <br>
     •  🔥 My proudest project1 so far <a href="https://github.com/mobahug/instagram_clone_42_SP">INSTAGRAM CLONE</a><br>
