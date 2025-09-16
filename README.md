@@ -119,6 +119,7 @@ today finished the upload images based on user login tokens
     <img align="center" alt="confluence" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original.svg">
     <img align="center" alt="jira" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg">
     <img align="center" alt="figma" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+    <img align="center" alt="databricks" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/databricks/databricks-original.svg">
 
   
   
