@@ -1,4 +1,3 @@
-```html
 <div align="center">
 
   <img src="https://user-images.githubusercontent.com/83179142/156719281-6ce162ee-8c83-4979-91f0-c8d79305160c.png">
@@ -26,18 +25,18 @@
 
 </div>
 
-- 👨‍💻 Full Stack Developer based in Finland
-- 🏥 Working on large-scale healthcare applications and cloud infrastructure at **Tieto Caretech**
-- 🔭 Working across **React, TypeScript, Node.js, GraphQL and PostgreSQL**
-- ☁️ Hands-on with **Azure, Terraform, Docker, Kubernetes and Azure DevOps**
-- 🚀 Working across the full software lifecycle: development, infrastructure, CI/CD, production releases and troubleshooting
-- 🧭 Taking strong ownership across both large full-stack applications and their cloud infrastructure
-- 🌍 Working across multiple customer environments and helping prepare, coordinate and execute production releases
-- 🔧 Comfortable stepping into unfamiliar parts of complex systems, investigating how they work and carrying changes through to production
-- 🔐 Experience working with security and compliance requirements, including **ISO 27001**
-- 🐝 Alumni of **Hive Helsinki**
-- 🛠️ I enjoy taking ideas from an early concept all the way to a working product
-- 🎮 I also experiment with mobile and multiplayer game development using **Godot**
+* 👨‍💻 Full Stack Developer based in Finland
+* 🏥 Working on large-scale healthcare applications and cloud infrastructure at **Tieto Caretech**
+* 🔭 Working across **React, TypeScript, Node.js, GraphQL and PostgreSQL**
+* ☁️ Hands-on with **Azure, Terraform, Docker, Kubernetes and Azure DevOps**
+* 🚀 Working across the full software lifecycle: development, infrastructure, CI/CD, production releases and troubleshooting
+* 🧭 Taking strong ownership across both large full-stack applications and their cloud infrastructure
+* 🌍 Working across multiple customer environments and helping prepare, coordinate and execute production releases
+* 🔧 Comfortable stepping into unfamiliar parts of complex systems, investigating how they work and carrying changes through to production
+* 🔐 Experience working with security and compliance requirements, including **ISO 27001**
+* 🐝 Alumni of **Hive Helsinki**
+* 🛠️ I enjoy taking ideas from an early concept all the way to a working product
+* 🎮 I also experiment with mobile and multiplayer game development using **Godot**
 
 <br>
 
@@ -70,13 +69,13 @@
 
 <br><br>
 
-📍 GPS tracking  
-🗺️ Expeditions, tracks, zones & waypoints  
-📱 Offline-first data storage  
-📸 Photos & field observations  
-☁️ Cloud synchronization  
-🔎 Filtering & data management  
-📤 GPX / KML / GeoJSON / CSV export  
+📍 GPS tracking
+🗺️ Expeditions, tracks, zones & waypoints
+📱 Offline-first data storage
+📸 Photos & field observations
+☁️ Cloud synchronization
+🔎 Filtering & data management
+📤 GPX / KML / GeoJSON / CSV export
 
 <br>
 
@@ -128,7 +127,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40px" width="40px">
 </a>
 
-&emsp;
+ 
 
 <a href="mailto:gaborulenius@gmail.com">
   <img height="40px" width="40px" src="https://user-images.githubusercontent.com/1412131/58957746-8d342500-87a1-11e9-9c34-4c757712bd27.png">
@@ -152,7 +151,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mobahug&show_icons=true&theme=tokyonight&count_private=true">
 </a>
 
-&emsp;
+ 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobahug&layout=compact&langs_count=8&theme=tokyonight">
@@ -238,4 +237,3 @@
 <br>
 
 <img width="100%" src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg">
-```
