@@ -1,201 +1,47 @@
-<div align="center">
+# Hi, I'm Gábor
 
-  <img src="https://user-images.githubusercontent.com/83179142/156719281-6ce162ee-8c83-4979-91f0-c8d79305160c.png">
+Full-Stack Developer in Espoo, Finland. At [Tieto Caretech](https://www.tieto.com/fi/toimialat/terveydenhuolto/lifecare-patient-insights/) I'm the primary developer of **Lifecare Patient Insights**, which brings patient information from many systems into one view for healthcare professionals.
 
-  <h1>
-    Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> I'm Gabor
-  </h1>
+**[Portfolio](https://mobahug.github.io/gaborulenius/)** · **[LinkedIn](https://www.linkedin.com/in/g%C3%A0bor-horv%C3%A0th-ulenius-07526719a/)** · **[Email](mailto:gaborulenius@gmail.com)**
 
-  <p>
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer+from+Finland;React+%7C+TypeScript+%7C+Node.js+%7C+PostgreSQL;Azure+%7C+Terraform+%7C+Docker+%7C+Kubernetes;Building+things+end-to-end;Sometimes+I+also+make+games+%3A%29&font=Fira+Code&center=true&width=720&height=45&color=3382FF&vCenter=true&size=21">
-  </p>
+## What I work with
 
-  <img src="https://komarev.com/ghpvc/?username=mobahug&color=3382FF">
+- **Frontend and mobile:** React, TypeScript, Next.js, React Native, Expo
+- **Backend and APIs:** Node.js, GraphQL, PostgreSQL, Elasticsearch
+- **Cloud and DevOps:** Azure, AKS, Kubernetes, Terraform, Helm, Docker, Azure DevOps CI/CD
+- **AI:** LLM prototypes; Python, PyTorch, TransformerLens; Claude Code and Codex agents in daily work
+- **Testing:** Playwright, Jest, Cypress, Detox
 
-</div>
+## At work
 
-<br>
+- Primary developer of Lifecare Patient Insights across several customer environments, from React UIs to Azure infrastructure and production releases
+- Set up two complete test environments on my own, from infrastructure provisioning and database seeding to pipelines and deployments
+- LLM-based AI prototypes: a diagnostic-support proof of concept piloted at Helsinki's New Children's Hospital, and a demo at ATK-päivät
+- Security and compliance work, including ISO 27001
 
-<div align="center">
+That work lives in private repositories. The projects below are public, or public to use.
 
-## ⚡ A few quick facts
+## Projects
 
-</div>
+**[The Explorer](https://play.google.com/store/apps/details?id=com.mobahugstudio.theexplorer)**: an offline-first fieldwork app for remote expeditions, live on Google Play. GPS trails, offline topographic maps, structured field logs, cloud sync, and GeoJSON/GPX/KML/CSV export.
+<br><sub>React Native · TypeScript · Expo · MapLibre · Supabase · Auth0</sub>
 
-* 👨‍💻 Full Stack Developer working mostly with **React, TypeScript, Node.js, GraphQL & PostgreSQL**
-* ☁️ Also doing a lot of **Azure, Terraform, Docker, Kubernetes & Azure DevOps**
-* 🚀 Working with large healthcare systems from implementation all the way to infra and production releases
-* 🔧 I like taking ownership and figuring things out, even when it’s a part of the system I haven’t worked with that much before
-* 🌍 Working across multiple customer environments
-* 🔐 Familiar with security and compliance work, including **ISO 27001**
-* 🐝 Alumni of **Hive Helsinki**
-* 🎮 Messing around with **Godot**, mobile games and multiplayer ideas in my free time
-* 😄 Fun fact: I can solve a Rubik's Cube in around 30 seconds
+**[Neural Decompiler](https://github.com/mobahug/neural-decompiler)**: mechanistic-interpretability research on transformer language models. Preregistered experiments trace how Pythia-70M computes, and negative results stay on record.
+<br><sub>Python · PyTorch · TransformerLens</sub>
 
-<br>
+**[Portfolio](https://github.com/mobahug/gaborulenius)**: a scroll-driven film journey in English and Finnish, with a one-page quick read.
+<br><sub>React · TypeScript · Vite · Playwright</sub>
 
----
+**[The AI Timeline](https://github.com/mobahug/The_AI_Timeline)**: an investigation board for the history of AI, 1900 to 2050.
+<br><sub>TypeScript</sub>
 
-<div align="center">
+Earlier, from Hive Helsinki: [Netflix-style streaming](https://github.com/mobahug/Netflix_Clone_42) and [Tinder-style dating](https://github.com/mobahug/TinderClone_42) (team projects), [Instagram-style social app](https://github.com/mobahug/instagram_clone_42_SP).
 
-## 🌿 On the trail
+## Outside the code
 
-<p>
-A few things I've been building lately.
-</p>
+Hive Helsinki alumnus who came to software from construction. English, Finnish and Hungarian. Free time goes to Godot games and mobile game ideas, and I solve a Rubik's Cube in about 30 seconds.
 
-<h3>🧭 The Explorer</h3>
-
-<p>
-My own offline-first GPS exploration / field research app.<br>
-Built it from scratch and somehow got it all the way to Google Play. :)
-</p>
-
-<p>
-<b>React Native · TypeScript · Expo · MapLibre · Supabase · Auth0</b>
-</p>
-
-<br>
-
-<a href="https://play.google.com/store/apps/details?id=com.mobahugstudio.theexplorer">
-  <img src="https://img.shields.io/badge/🧭_The_Explorer_on_Google_Play-2E7D32?style=for-the-badge&logo=google-play&logoColor=white">
-</a>
-
- 
-
-<a href="https://mobahug.github.io/gaborulenius/">
-  <img src="https://img.shields.io/badge/🌿_Follow_the_trail_to_my_portfolio-43A047?style=for-the-badge">
-</a>
-
-<br><br>
-
-<sub>📍 GPS tracking · 🗺️ Offline data · 📸 Photos · ☁️ Sync · 📤 GPX / KML / GeoJSON / CSV</sub>
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-## 🔨 Some older projects
-
-🔥 <a href="https://github.com/mobahug/instagram_clone_42_SP">Instagram Clone</a>
-  •  
-🔥 <a href="https://github.com/mobahug/TinderClone_42">Tinder Clone</a>
-  •  
-🔥 <a href="https://github.com/mobahug/Netflix_Clone_42">Netflix Clone</a>
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-## 📫 Contact me
-
-<a href="https://www.linkedin.com/in/g%C3%A0bor-horv%C3%A0th-ulenius-07526719a/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40px" width="40px">
-</a>
-
- 
-
-<a href="mailto:gaborulenius@gmail.com">
-  <img height="40px" width="40px" src="https://user-images.githubusercontent.com/1412131/58957746-8d342500-87a1-11e9-9c34-4c757712bd27.png">
-</a>
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-## 📊 GitHub stuff
-
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-
-<br><br>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mobahug&show_icons=true&theme=tokyonight&count_private=true">
-</a>
-
- 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobahug&layout=compact&langs_count=8&theme=tokyonight">
-</a>
-
-</div>
-
-<br>
-
----
-
-<h2 align="center">🚀 Languages & development</h2>
-
-<div align="center">
-
-<br>
-
-<img align="center" alt="Terraform" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg">
-<img align="center" alt="HTML5" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="C" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-<img align="center" alt="JQuery" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
-<img align="center" alt="MongoDB" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-<img align="center" alt="Next.js" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-<img align="center" alt="Node.js" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-<img align="center" alt="Python" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="CSS3" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="Bash" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
-<img align="center" alt="React" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img align="center" alt="PHP" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-<img align="center" alt="MySQL" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-<img align="center" alt="PostgreSQL" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-<img align="center" alt="JavaScript" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-<img align="center" alt="TypeScript" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-
-</div>
-
-<br>
-
----
-
-<h2 align="center">🔧 Tools / cloud / things I break and fix</h2>
-
-<div align="center">
-
-<br>
-
-<img align="center" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png">
-<img align="center" alt="Git" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-<img align="center" alt="Linux" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-<img align="center" alt="Docker" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-<img align="center" alt="GitHub" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-<img align="center" alt="Vim" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg">
-<img align="center" alt="NPM" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
-<img align="center" alt="Kubernetes" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg">
-<img align="center" alt="Azure" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
-<img align="center" alt="Azure DevOps" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-original.svg">
-<img align="center" alt="Confluence" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original.svg">
-<img align="center" alt="Jira" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg">
-<img align="center" alt="Figma" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-
-</div>
-
-<br><br>
-
-<div align="center">
-
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/mobahug/mobahug/output/github-contribution-grid-snake-dark.svg">
-
-</div>
-
-<br>
-
-<img width="100%" src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mobahug/mobahug/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/mobahug/mobahug/output/github-contribution-grid-snake.svg">
+</picture>
