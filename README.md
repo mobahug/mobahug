@@ -60,7 +60,7 @@ Built it from scratch and somehow got it all the way to Google Play. :)
 <b>React Native · TypeScript · Expo · MapLibre · Supabase · Auth0</b>
 </p>
 
-<img src="assets/explorer-phone.svg" width="300" alt="The Explorer app screens cycling in a phone frame">
+<img src="assets/explorer-phone.svg" width="330" alt="The Explorer app screens cycling on an iPhone">
 
 <br><br>
 
