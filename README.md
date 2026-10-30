@@ -1,6 +1,8 @@
 <div align="center">
 
-  <img src="https://user-images.githubusercontent.com/83179142/156719281-6ce162ee-8c83-4979-91f0-c8d79305160c.png">
+  <a href="https://mobahug.github.io/gaborulenius/">
+    <img src="assets/jungle-header.svg" width="100%" alt="Gábor Ulenius, Full-Stack Developer in Espoo, Finland, on a jungle path">
+  </a>
 
   <h1>
     Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> I'm Gábor
@@ -57,6 +59,10 @@ Built it from scratch and somehow got it all the way to Google Play. :)
 <p>
 <b>React Native · TypeScript · Expo · MapLibre · Supabase · Auth0</b>
 </p>
+
+<img src="assets/explorer-phone.svg" width="300" alt="The Explorer app screens cycling in a phone frame">
+
+<br><br>
 
 <br>
 
