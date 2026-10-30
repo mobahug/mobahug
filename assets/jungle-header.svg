@@ -14,9 +14,9 @@
 @keyframes swayt{from{transform:rotate(-3deg)}to{transform:rotate(3deg)}}
 .sway-f{transform-origin:0 300px;animation:swayf 5.5s ease-in-out infinite alternate}
 @keyframes swayf{from{transform:rotate(1.5deg)}to{transform:rotate(-3deg)}}
-.title{font-family:Inter,"Segoe UI",Helvetica,Arial,sans-serif;font-weight:700;letter-spacing:.5px;fill:#d9c89a;opacity:0;animation:rise 1.6s ease-out .4s forwards}
-.sub{font-family:Inter,"Segoe UI",Helvetica,Arial,sans-serif;font-weight:500;letter-spacing:2.5px;fill:#f6f1e4;opacity:0;animation:rise 1.6s ease-out 1.1s forwards}
-.trail{font-family:Inter,"Segoe UI",Helvetica,Arial,sans-serif;font-weight:500;letter-spacing:3px;fill:#d9c89a;opacity:0;animation:rise 1.6s ease-out 1.8s forwards,breathe 4s ease-in-out 3.4s infinite alternate}
+.title{font-family:Inter,"Segoe UI",Helvetica,Arial,sans-serif;font-weight:700;letter-spacing:.5px;fill:#d9c89a;animation:rise 1.6s ease-out .4s backwards}
+.sub{font-family:Inter,"Segoe UI",Helvetica,Arial,sans-serif;font-weight:500;letter-spacing:2.5px;fill:#f6f1e4;animation:rise 1.6s ease-out 1.1s backwards}
+.trail{font-family:Inter,"Segoe UI",Helvetica,Arial,sans-serif;font-weight:500;letter-spacing:3px;fill:#d9c89a;animation:rise 1.6s ease-out 1.8s backwards,breathe 4s ease-in-out 3.4s infinite alternate}
 @keyframes rise{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
 @keyframes breathe{from{opacity:1}to{opacity:.55}}
 #f0{animation:fly0 10.9s ease-in-out -0.8s infinite}@keyframes fly0{0%{transform:translate(0,0);opacity:0}20%{opacity:.95}50%{transform:translate(4px,-32px);opacity:.35}75%{opacity:.9}100%{transform:translate(8px,-64px);opacity:0}}
@@ -35,7 +35,7 @@
 #f13{animation:fly13 12.7s ease-in-out -6.0s infinite}@keyframes fly13{0%{transform:translate(0,0);opacity:0}20%{opacity:.95}50%{transform:translate(12px,-33px);opacity:.35}75%{opacity:.9}100%{transform:translate(25px,-66px);opacity:0}}
 #f14{animation:fly14 8.9s ease-in-out -5.1s infinite}@keyframes fly14{0%{transform:translate(0,0);opacity:0}20%{opacity:.95}50%{transform:translate(14px,-21px);opacity:.35}75%{opacity:.9}100%{transform:translate(27px,-42px);opacity:0}}
 #f15{animation:fly15 12.3s ease-in-out -4.3s infinite}@keyframes fly15{0%{transform:translate(0,0);opacity:0}20%{opacity:.95}50%{transform:translate(30px,-20px);opacity:.35}75%{opacity:.9}100%{transform:translate(60px,-41px);opacity:0}}
-@media (prefers-reduced-motion:reduce){*{animation:none!important}.title,.sub,.trail{opacity:1}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
 </style>
 <radialGradient id="glow"><stop offset="0" stop-color="#fff6c8"/><stop offset=".35" stop-color="#f3dc8a" stop-opacity=".9"/><stop offset="1" stop-color="#f3dc8a" stop-opacity="0"/></radialGradient>
 <linearGradient id="beam" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff3c4" stop-opacity=".9"/><stop offset="1" stop-color="#fff3c4" stop-opacity="0"/></linearGradient>
